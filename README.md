@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=av1ppp&theme=transparent&layout=compact&hide_border=true)
+[![ier](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=32&duration=2400&pause=800&color=F7D300&background=FFFFFF10&multiline=true&width=295&height=130&lines=if+err+!%3D+nil+%7B;%E2%80%8E+%E2%80%8E+return+err;%7D)](https://git.io/typing-svg)
