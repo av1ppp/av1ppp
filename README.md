@@ -1,1 +1,1 @@
-[![ier](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=32&duration=2400&pause=800&color=F7D300&background=FFFFFF10&multiline=true&width=295&height=130&lines=if+err+!%3D+nil+%7B;%E2%80%8E+%E2%80%8E+return+err;%7D)](https://git.io/typing-svg)
+[![ier](https://readme-typing-svg.demolab.com?font=Fira+Code&size=52&pause=1000&color=F7D300&background=FFFFFF10&multiline=true&width=540&height=200&lines=%E2%A0%80if+err+!%3D+nil+%7B;%E2%A0%80%E2%A0%80%E2%A0%80return+err;%E2%A0%80%7D)](https://git.io/typing-svg)
